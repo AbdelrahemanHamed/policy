@@ -26,7 +26,7 @@ function PrivaceAndPolicy() {
     }}>
 
         <Typography>
-                    <h1 style={{ textAlign: "center", color: "#f1e1c7" }} >Privacy and Policy forTrading Soiety</h1>  
+                    <h1 style={{ textAlign: "center", color: "#f1e1c7" }} >Privacy and Policy for Trading Soiety</h1>  
 
                     At Trading Society, we handle personal data with the utmost care and adhere to all relevant data protection laws,
                         including the General Data Protection Regulation (GDPR). This policy explains the purpose of collecting personal information and the measures we take to protect your privacy.
